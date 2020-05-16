@@ -2,9 +2,7 @@
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/saurabhkemekar/Saurabh-Kemekar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Saurabh Kemekar and I am a sophomore year undergraduate student pursuing my degree in Electronics and Communication Engineering from Visvesvaraya National Institute of Technology. Area of interest  Computer Vision and Deep Learning and learning the mathematics behind the Computer Vision algorithms and gaining its intuition. My major research in computer vision was in 3D Reconstruction and Multiple view geometry. During my spare time, I like to play computer games and Cricket. I am Learner and wanted to learn more.
 
 ### Markdown
 
